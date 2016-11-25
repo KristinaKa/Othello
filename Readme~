@@ -1,4 +1,3 @@
 The player vs player version of the othello game
-Dependancies: python, pygame
 To run the game type the command:
 python othello.py
